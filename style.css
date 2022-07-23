@@ -1,0 +1,35 @@
+body{
+    width: 960px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+p{
+    margin-top: 0;
+    text-align: center;
+    color: rgb(70, 67, 67);
+}
+
+#pantalla{
+    border: double 8px rgb(54, 54, 54);
+    background: rgb(140, 197, 238);
+}
+
+#boton{ 
+  padding: 15px;
+  margin-top: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border-radius: 30px;
+ font-weight: lighter;
+  
+  border: solid 2px rgb(60, 171, 255);
+}
